@@ -1,0 +1,13 @@
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\bin\Debug\netcoreapp3.1\select_movie.exe
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\bin\Debug\netcoreapp3.1\select_movie.deps.json
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\bin\Debug\netcoreapp3.1\select_movie.runtimeconfig.json
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\bin\Debug\netcoreapp3.1\select_movie.runtimeconfig.dev.json
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\bin\Debug\netcoreapp3.1\select_movie.dll
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\bin\Debug\netcoreapp3.1\select_movie.pdb
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\obj\Debug\netcoreapp3.1\select_movie.csprojAssemblyReference.cache
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\obj\Debug\netcoreapp3.1\select_movie.AssemblyInfoInputs.cache
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\obj\Debug\netcoreapp3.1\select_movie.AssemblyInfo.cs
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\obj\Debug\netcoreapp3.1\select_movie.dll
+C:\Users\bbran\Source\Repos\Ozeirr\ProjectBCinema\select_movie\select_movie\obj\Debug\netcoreapp3.1\select_movie.pdb
+C:\Users\bbran\source\repos\Ozeirr\ProjectBCinema\select_movie\select_movie\obj\Debug\netcoreapp3.1\select_movie.csproj.CoreCompileInputs.cache
+C:\Users\bbran\source\repos\Ozeirr\ProjectBCinema\select_movie\select_movie\obj\Debug\netcoreapp3.1\select_movie.genruntimeconfig.cache
